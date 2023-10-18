@@ -12,9 +12,10 @@ GameObject:
   - component: {fileID: 5899417637585746649}
   - component: {fileID: 6672165324571827727}
   - component: {fileID: 3726821026096236902}
+  - component: {fileID: 2662544167025823996}
   m_Layer: 0
   m_Name: PlaceholderTile
-  m_TagString: Box
+  m_TagString: Square
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -105,3 +106,15 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &2662544167025823996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1427824901470239660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6520bc1f4bd34431fbe91eca6cc109ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
